@@ -1,5 +1,4 @@
 # Vendor-Sales-Performance-analysis
-# Vendor Sales Performance Analysis
 
 ## 📌 Project Overview
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. This project utilizes data analysis to ensure the company avoids losses caused by inefficient pricing, poor inventory turnover, or over-dependency on specific vendors.
